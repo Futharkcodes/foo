@@ -10,3 +10,8 @@ Installation guidelines, patches(fixes) etc
 # Attempt #2
 - `sudo su`
 - `sudo dd if=/dev/zero of=/dev/sda`
+# Attempt #3
+- `Hammer` `Drill` `Skrewdriver`
+
+Now you successfully should have completed a final solution for the system.
+Your welcome.
