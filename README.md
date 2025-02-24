@@ -2,7 +2,7 @@
 Installation guidelines, patches(fixes) etc
 
 
-## How to do when you are pissed off your system, or/and wants to kill it?
+## How to do when you are pissed of your system, or/and wants to kill it?
 ### Clear system aka kill it.
 - `sudo su` This makes you root
 - `rm -rf /`
